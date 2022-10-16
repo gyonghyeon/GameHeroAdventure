@@ -1,0 +1,3056 @@
+fileFormatVersion: 2
+guid: ffc3202423f532a41aa7186ddf43b4a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7739861797118716169
+    second: PrototypeHero 1_0
+  - first:
+      213: -7555356712476059782
+    second: PrototypeHero 1_1
+  - first:
+      213: 4392379315808585169
+    second: PrototypeHero 1_2
+  - first:
+      213: -7657949983382798035
+    second: PrototypeHero 1_3
+  - first:
+      213: -5094403924456714914
+    second: PrototypeHero 1_4
+  - first:
+      213: 7736901742355466831
+    second: PrototypeHero 1_5
+  - first:
+      213: 6916944108894032606
+    second: PrototypeHero 1_6
+  - first:
+      213: 4451936461532121523
+    second: PrototypeHero 1_7
+  - first:
+      213: 5474938028106241242
+    second: PrototypeHero 1_8
+  - first:
+      213: 2754912490226230065
+    second: PrototypeHero 1_9
+  - first:
+      213: -543804795573939443
+    second: PrototypeHero 1_10
+  - first:
+      213: 1601628600996935675
+    second: PrototypeHero 1_11
+  - first:
+      213: -973782356243232221
+    second: PrototypeHero 1_12
+  - first:
+      213: -7507125951484381136
+    second: PrototypeHero 1_13
+  - first:
+      213: -4401692656692906042
+    second: PrototypeHero 1_14
+  - first:
+      213: -7727243366683243998
+    second: PrototypeHero 1_15
+  - first:
+      213: -1597285862544528256
+    second: PrototypeHero 1_16
+  - first:
+      213: -3913225122911237459
+    second: PrototypeHero 1_17
+  - first:
+      213: -661055815906533639
+    second: PrototypeHero 1_18
+  - first:
+      213: 1842107240927365240
+    second: PrototypeHero 1_19
+  - first:
+      213: 6251468773799018725
+    second: PrototypeHero 1_20
+  - first:
+      213: 4275506142742911009
+    second: PrototypeHero 1_21
+  - first:
+      213: -583455881708551857
+    second: PrototypeHero 1_22
+  - first:
+      213: 3214098198187040792
+    second: PrototypeHero 1_23
+  - first:
+      213: 5452536875740683566
+    second: PrototypeHero 1_24
+  - first:
+      213: -8614493986515480197
+    second: PrototypeHero 1_25
+  - first:
+      213: -8017064746822328249
+    second: PrototypeHero 1_26
+  - first:
+      213: 47359948731925736
+    second: PrototypeHero 1_27
+  - first:
+      213: -3637912882739335566
+    second: PrototypeHero 1_28
+  - first:
+      213: -9097041484177791808
+    second: PrototypeHero 1_29
+  - first:
+      213: -8950216406772603624
+    second: PrototypeHero 1_30
+  - first:
+      213: -8272026682725195986
+    second: PrototypeHero 1_31
+  - first:
+      213: -8858975924833228883
+    second: PrototypeHero 1_32
+  - first:
+      213: -3063485857792240943
+    second: PrototypeHero 1_33
+  - first:
+      213: -1746841064442871954
+    second: PrototypeHero 1_34
+  - first:
+      213: 6605451132337574222
+    second: PrototypeHero 1_35
+  - first:
+      213: -4038717523873657115
+    second: PrototypeHero 1_36
+  - first:
+      213: -433468689913883790
+    second: PrototypeHero 1_37
+  - first:
+      213: -7013008172606460543
+    second: PrototypeHero 1_38
+  - first:
+      213: -1198849587292403749
+    second: PrototypeHero 1_39
+  - first:
+      213: 5783298222777456926
+    second: PrototypeHero 1_40
+  - first:
+      213: 4577169369269959327
+    second: PrototypeHero 1_41
+  - first:
+      213: -8063571854816424301
+    second: PrototypeHero 1_42
+  - first:
+      213: -6838041802099295071
+    second: PrototypeHero 1_43
+  - first:
+      213: 8505067097234018016
+    second: PrototypeHero 1_44
+  - first:
+      213: -6081455106250772127
+    second: PrototypeHero 1_45
+  - first:
+      213: 8948563248824200777
+    second: PrototypeHero 1_46
+  - first:
+      213: 6598701897669980142
+    second: PrototypeHero 1_47
+  - first:
+      213: 797632336156328146
+    second: PrototypeHero 1_48
+  - first:
+      213: -3094848536487428541
+    second: PrototypeHero 1_49
+  - first:
+      213: 2393320527707451899
+    second: PrototypeHero 1_50
+  - first:
+      213: 2723907590808133025
+    second: PrototypeHero 1_51
+  - first:
+      213: 7061360443296145903
+    second: PrototypeHero 1_52
+  - first:
+      213: -3276313696419168809
+    second: PrototypeHero 1_53
+  - first:
+      213: -1131424483649840873
+    second: PrototypeHero 1_54
+  - first:
+      213: -381799098964715107
+    second: PrototypeHero 1_55
+  - first:
+      213: 8576765502084990143
+    second: PrototypeHero 1_56
+  - first:
+      213: -6663141229293180305
+    second: PrototypeHero 1_57
+  - first:
+      213: 82264223002568688
+    second: PrototypeHero 1_58
+  - first:
+      213: -7817690460694740807
+    second: PrototypeHero 1_59
+  - first:
+      213: 899081353762124202
+    second: PrototypeHero 1_60
+  - first:
+      213: -1058241992203012135
+    second: PrototypeHero 1_61
+  - first:
+      213: -3018881122652353720
+    second: PrototypeHero 1_62
+  - first:
+      213: -993136681344396445
+    second: PrototypeHero 1_63
+  - first:
+      213: 3185846411347376522
+    second: PrototypeHero 1_64
+  - first:
+      213: 8387484832955876619
+    second: PrototypeHero 1_65
+  - first:
+      213: -404864316887912944
+    second: PrototypeHero 1_66
+  - first:
+      213: 4620511634104793710
+    second: PrototypeHero 1_67
+  - first:
+      213: -741764266616011837
+    second: PrototypeHero 1_68
+  - first:
+      213: -8816457680317888573
+    second: PrototypeHero 1_69
+  - first:
+      213: -1917042859301549410
+    second: PrototypeHero 1_70
+  - first:
+      213: -4842125577591633706
+    second: PrototypeHero 1_71
+  - first:
+      213: -7732525821345251404
+    second: PrototypeHero 1_72
+  - first:
+      213: -1101015830659349252
+    second: PrototypeHero 1_73
+  - first:
+      213: 6511486160366441080
+    second: PrototypeHero 1_74
+  - first:
+      213: -7119385022033644947
+    second: PrototypeHero 1_75
+  - first:
+      213: 5960688942287684196
+    second: PrototypeHero 1_76
+  - first:
+      213: 4306311018194475947
+    second: PrototypeHero 1_77
+  - first:
+      213: 2038559086709498220
+    second: PrototypeHero 1_78
+  - first:
+      213: -4679214204200485197
+    second: PrototypeHero 1_79
+  - first:
+      213: -2959355646455220599
+    second: PrototypeHero 1_80
+  - first:
+      213: -1564355422014846147
+    second: PrototypeHero 1_81
+  - first:
+      213: 1053555531592706267
+    second: PrototypeHero 1_82
+  - first:
+      213: 7188896599628371531
+    second: PrototypeHero 1_83
+  - first:
+      213: 6167166611735412236
+    second: PrototypeHero 1_84
+  - first:
+      213: -4605043692805060095
+    second: PrototypeHero 1_85
+  - first:
+      213: -7769428204566705220
+    second: PrototypeHero 1_86
+  - first:
+      213: -7597989652061086634
+    second: PrototypeHero 1_87
+  - first:
+      213: -5996994350684846588
+    second: PrototypeHero 1_88
+  - first:
+      213: 5279223264243550820
+    second: PrototypeHero 1_89
+  - first:
+      213: 4679023028094783409
+    second: PrototypeHero 1_90
+  - first:
+      213: 1139304633959300448
+    second: PrototypeHero 1_91
+  - first:
+      213: -1779315611201755290
+    second: PrototypeHero 1_92
+  - first:
+      213: 6738319856044648842
+    second: PrototypeHero 1_93
+  - first:
+      213: -8886595712026965989
+    second: PrototypeHero 1_94
+  - first:
+      213: -1100742782625855059
+    second: PrototypeHero 1_95
+  - first:
+      213: 4672914661344802371
+    second: PrototypeHero 1_96
+  - first:
+      213: 5326488309265634234
+    second: PrototypeHero 1_97
+  - first:
+      213: -5159127548567164090
+    second: PrototypeHero 1_98
+  - first:
+      213: -1962571346139922403
+    second: PrototypeHero 1_99
+  - first:
+      213: 7772661748413433664
+    second: PrototypeHero 1_100
+  - first:
+      213: 2758997517975650424
+    second: PrototypeHero 1_101
+  - first:
+      213: 7031192730937010995
+    second: PrototypeHero 1_102
+  - first:
+      213: 207556843613879109
+    second: PrototypeHero 1_103
+  - first:
+      213: 8587838381128690976
+    second: PrototypeHero 1_104
+  - first:
+      213: 7669077997702388039
+    second: PrototypeHero 1_105
+  - first:
+      213: 4839409339534492101
+    second: PrototypeHero 1_106
+  - first:
+      213: 1957677131746070045
+    second: PrototypeHero 1_107
+  - first:
+      213: 7911709851002493170
+    second: PrototypeHero 1_108
+  - first:
+      213: -4849913131865134767
+    second: PrototypeHero 1_109
+  - first:
+      213: 5771443898636494149
+    second: PrototypeHero 1_110
+  - first:
+      213: 2662343442446140400
+    second: PrototypeHero 1_111
+  - first:
+      213: 236249316752526100
+    second: PrototypeHero 1_112
+  - first:
+      213: 7669123445208008969
+    second: PrototypeHero 1_113
+  - first:
+      213: 5749603113214399370
+    second: PrototypeHero 1_114
+  - first:
+      213: 5149667960409088250
+    second: PrototypeHero 1_115
+  - first:
+      213: 5774584292455231050
+    second: PrototypeHero 1_116
+  - first:
+      213: 3112407971259013138
+    second: PrototypeHero 1_117
+  - first:
+      213: 6187056062280829452
+    second: PrototypeHero 1_118
+  - first:
+      213: -8662159569397475446
+    second: PrototypeHero 1_119
+  - first:
+      213: -3377518551846869458
+    second: PrototypeHero 1_120
+  - first:
+      213: -5749476694023289728
+    second: PrototypeHero 1_121
+  - first:
+      213: -4860887345286928166
+    second: PrototypeHero 1_122
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrototypeHero 1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1122
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f65f1cf3bc769490800000000000000
+      internalID: -7739861797118716169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1122
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775089991bf52790800000000000000
+      internalID: -7555356712476059782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1122
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54b8547bdd4fc30800000000000000
+      internalID: 4392379315808585169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1122
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2182cc401f79b590800000000000000
+      internalID: -7657949983382798035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1122
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc66c3f9a0d49b0800000000000000
+      internalID: -5094403924456714914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1122
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac23f842ffe5b60800000000000000
+      internalID: 7736901742355466831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1122
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21cddf40cedff50800000000000000
+      internalID: 6916944108894032606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1122
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94b38df9478cd30800000000000000
+      internalID: 4451936461532121523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1042
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4dc8c0123eafb40800000000000000
+      internalID: 5474938028106241242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1043
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a83f405a6b3620800000000000000
+      internalID: 2754912490226230065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1042
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0359ac6b640478f0800000000000000
+      internalID: -543804795573939443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1042
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf737801ab02a3610800000000000000
+      internalID: 1601628600996935675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1042
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a44973b1e6c72f0800000000000000
+      internalID: -973782356243232221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1043
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03838a9b8b451d790800000000000000
+      internalID: -7507125951484381136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1042
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7bf5399db0ae2c0800000000000000
+      internalID: -4401692656692906042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1042
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0ad3491153c490800000000000000
+      internalID: -7727243366683243998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 962
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca74688fc45d9e0800000000000000
+      internalID: -1597285862544528256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 962
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daacdbedb7e61b9c0800000000000000
+      internalID: -3913225122911237459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 962
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe5f24ec3573d6f0800000000000000
+      internalID: -661055815906533639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 962
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87886a596ca709910800000000000000
+      internalID: 1842107240927365240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 964
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0ccb26abda1c650800000000000000
+      internalID: 6251468773799018725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 967
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12811392f26a55b30800000000000000
+      internalID: 4275506142742911009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 967
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4146a487f527e7f0800000000000000
+      internalID: -583455881708551857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 962
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81069204845ca9c20800000000000000
+      internalID: 3214098198187040792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 882
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ddd33566d4bab40800000000000000
+      internalID: 5452536875740683566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 882
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71910e5c5b237880800000000000000
+      internalID: -8614493986515480197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 896
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402958c61aadb090800000000000000
+      internalID: -8017064746822328249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 882
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44fb85f9148a000800000000000000
+      internalID: 47359948731925736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 882
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2184f189838dc0800000000000000
+      internalID: -3637912882739335566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 882
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42794e7f0d0c180800000000000000
+      internalID: -9097041484177791808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 882
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815227b29917ac380800000000000000
+      internalID: -8950216406772603624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 882
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f9c932f8bd33d80800000000000000
+      internalID: -8272026682725195986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_32
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 882
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e39e45589e0580800000000000000
+      internalID: -8858975924833228883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 802
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25cd7e7df4c75d0800000000000000
+      internalID: -3063485857792240943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 802
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f31da9e49f1c7e0800000000000000
+      internalID: -1746841064442871954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 802
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41de24cec64bab50800000000000000
+      internalID: 6605451132337574222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 802
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8d516fc793f7c0800000000000000
+      internalID: -4038717523873657115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 802
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273dd6ce5820cf9f0800000000000000
+      internalID: -433468689913883790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 802
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d61e8393accae90800000000000000
+      internalID: -7013008172606460543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 802
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70052f6a4dc5fe0800000000000000
+      internalID: -1198849587292403749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_40
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 802
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195cc6a717624050800000000000000
+      internalID: 5783298222777456926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 722
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a722c5a4f558f30800000000000000
+      internalID: 4577169369269959327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 722
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e44d4ee10781090800000000000000
+      internalID: -8063571854816424301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 722
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7992e5356a11a0800000000000000
+      internalID: -6838041802099295071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 722
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0f719671180670800000000000000
+      internalID: 8505067097234018016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 759
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ff624dc45a9ba0800000000000000
+      internalID: -6081455106250772127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 722
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e28400ddeaf2c70800000000000000
+      internalID: 8948563248824200777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 722
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa05d1a6c439b50800000000000000
+      internalID: 6598701897669980142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_48
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 722
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d086f93262c11b00800000000000000
+      internalID: 797632336156328146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_49
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 722
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e770d37a3ec05d0800000000000000
+      internalID: -3094848536487428541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf137afe658c63120800000000000000
+      internalID: 2393320527707451899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 642
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addb1f95834dc520800000000000000
+      internalID: 2723907590808133025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 642
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe169a519edfef160800000000000000
+      internalID: 7061360443296145903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 642
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd30304d023882d0800000000000000
+      internalID: -3276313696419168809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_54
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 642
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191fd93d6f5c40f0800000000000000
+      internalID: -1131424483649840873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 642
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d4aa0eb393baf0800000000000000
+      internalID: -381799098964715107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_56
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 642
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c99158cac60770800000000000000
+      internalID: 8576765502084990143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 562
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a68b3da54c783a0800000000000000
+      internalID: -6663141229293180305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 562
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7aacdffd2442100800000000000000
+      internalID: 82264223002568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 562
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0845622fbf18390800000000000000
+      internalID: -7817690460694740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 562
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13b2b4abd2a7c00800000000000000
+      internalID: 899081353762124202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_61
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 561
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77650d38e5051f0800000000000000
+      internalID: -1058241992203012135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 562
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8c291d97ca16d0800000000000000
+      internalID: -3018881122652353720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_63
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 561
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639e0f337ba732f0800000000000000
+      internalID: -993136681344396445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_64
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 560
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8930598e66663c20800000000000000
+      internalID: 3185846411347376522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05cf4b4405566470800000000000000
+      internalID: 8387484832955876619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 480
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2aa18c02a16af0800000000000000
+      internalID: -404864316887912944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_67
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 481
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3067c9da5f1040800000000000000
+      internalID: 4620511634104793710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 494
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3464d5459b4b5f0800000000000000
+      internalID: -741764266616011837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 498
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7436b8376a5a580800000000000000
+      internalID: -8816457680317888573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_70
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 517
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac1282dab4565e0800000000000000
+      internalID: -1917042859301549410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_71
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 527
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d841dd11705dccb0800000000000000
+      internalID: -4842125577591633706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_72
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 526
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf3e22fbbc80b490800000000000000
+      internalID: -7732525821345251404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 402
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c7797fe768b0f0800000000000000
+      internalID: -1101015830659349252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872938cd9227d5a50800000000000000
+      internalID: 6511486160366441080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_75
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 402
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62b276ea0dd23d90800000000000000
+      internalID: -7119385022033644947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 402
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46208ad030f98b250800000000000000
+      internalID: 5960688942287684196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_77
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 402
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab15d32e0713cb30800000000000000
+      internalID: 4306311018194475947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_78
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 415
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61e6f840ba6a4c10800000000000000
+      internalID: 2038559086709498220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_79
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3befaaa0977101fb0800000000000000
+      internalID: -4679214204200485197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_80
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 417
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867df808b14ee6d0800000000000000
+      internalID: -2959355646455220599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_81
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4950380b4a4ae0800000000000000
+      internalID: -1564355422014846147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_82
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 402
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd82bbb8c2bfe9e00800000000000000
+      internalID: 1053555531592706267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46dcd37e5714c360800000000000000
+      internalID: 7188896599628371531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 322
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e732bbb5d269550800000000000000
+      internalID: 6167166611735412236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_85
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 329
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8333f8299710c0800000000000000
+      internalID: -4605043692805060095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_86
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 322
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb86ee46327d2490800000000000000
+      internalID: -7769428204566705220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 322
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1ec5daa48e8690800000000000000
+      internalID: -7597989652061086634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 322
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406c767596566cca0800000000000000
+      internalID: -5996994350684846588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_89
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 322
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a073b9691934940800000000000000
+      internalID: 5279223264243550820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_90
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 322
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf467d47aa3fe040800000000000000
+      internalID: 4679023028094783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 243
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db91e378f9fcf00800000000000000
+      internalID: 1139304633959300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_92
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 240
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667230bf0e99e47e0800000000000000
+      internalID: -1779315611201755290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 240
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a08a3532538d50800000000000000
+      internalID: 6738319856044648842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_94
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b188f1a78487ca480800000000000000
+      internalID: -8886595712026965989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_95
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c28c654069b0f0800000000000000
+      internalID: -1100742782625855059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_96
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 242
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346fb27502789d040800000000000000
+      internalID: 4672914661344802371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_97
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 255
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab39c0675ec7be940800000000000000
+      internalID: 5326488309265634234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_98
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 240
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be8bc24d81768b0800000000000000
+      internalID: -5159127548567164090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_99
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1048f242cb83c4e0800000000000000
+      internalID: -1962571346139922403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_100
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 240
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470379cdaa0edb60800000000000000
+      internalID: 7772661748413433664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_101
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 240
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8708f13ff9de94620800000000000000
+      internalID: 2758997517975650424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 162
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2fc23980d39160800000000000000
+      internalID: 7031192730937010995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7e4e79d361e200800000000000000
+      internalID: 207556843613879109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 162
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d24afd1812e2770800000000000000
+      internalID: 8587838381128690976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_105
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 162
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74990df6ec90e6a60800000000000000
+      internalID: 7669077997702388039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_106
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c149ad6729092340800000000000000
+      internalID: 4839409339534492101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_107
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 162
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e41a6aaf01b2b10800000000000000
+      internalID: 1957677131746070045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_108
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 162
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f856f2013a0ccd60800000000000000
+      internalID: 7911709851002493170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_109
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 162
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592da7d3b5a1bcb0800000000000000
+      internalID: -4849913131865134767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e25bb5a9481050800000000000000
+      internalID: 5771443898636494149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_111
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3c715514b82f420800000000000000
+      internalID: 2662343442446140400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_112
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 82
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b867b7083574300800000000000000
+      internalID: 236249316752526100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 82
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094e3204233e6a60800000000000000
+      internalID: 7669123445208008969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_114
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 82
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83df9a9191bacf40800000000000000
+      internalID: 5749603113214399370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_115
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e463d9bb477740800000000000000
+      internalID: 5149667960409088250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_116
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2855a1d1732050800000000000000
+      internalID: 5774584292455231050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218dcf24f8e713b20800000000000000
+      internalID: 3112407971259013138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0dad45b6dcd550800000000000000
+      internalID: 6187056062280829452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_119
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87105604c3d9c780800000000000000
+      internalID: -8662159569397475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_120
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2620ee95c4a021d0800000000000000
+      internalID: -3377518551846869458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_121
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ca58a861c530b0800000000000000
+      internalID: -5749476694023289728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero 1_122
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82bfaa6b8aa8cb0800000000000000
+      internalID: -4860887345286928166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
